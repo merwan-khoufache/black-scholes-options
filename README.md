@@ -1,4 +1,4 @@
-# Black-Scholes Options Toolkit
+# Black-Scholes Options 
 
 **Author:** KHOUFACHE Merwan  
 **Program:** M1 Data Science & AI for Finance — EDHEC Business School  
