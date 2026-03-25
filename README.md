@@ -47,5 +47,6 @@ MSc Data Science & AI for Finance — EDHEC
 
 ## Reference
 
-> Hull, J.C. (2022). *Options, Futures, and Other Derivatives* (11th ed.). Pearson.  
-> Chapter 19 — The Greek Letters & Delta Hedging.
+
+- Hull, J. C. (2022). *Options, Futures, and Other Derivatives*. Pearson.
+- Hilpisch, Y. J. (2018). *Python for Finance: Mastering Data-Driven Finance* (2nd ed.). O’Reilly Media.
